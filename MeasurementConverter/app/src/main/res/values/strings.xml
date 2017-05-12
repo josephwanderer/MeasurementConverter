@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Measurement Converter</string>
+    <string name="conversionLabel">Conversion</string>
+
+    <string-array name="convert_array">
+        <item>Miles to Kilometers</item>
+        <item>Kilometers to Miles</item>
+        <item>Inches to Centimeters</item>
+        <item>Centimeters to Inches</item>
+    </string-array>
+
+</resources>
